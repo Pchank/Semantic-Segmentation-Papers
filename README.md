@@ -3,7 +3,7 @@
                                             
 Introduction
 ------------------------------------------------------------------------------------------------------------------------------
-Recently，Fully Convolution Network (FCN) has evolved to be the de facto network architecture in semantic segmentation. 
+Recently, Fully Convolution Network (FCN) has evolved to be the de facto network architecture in semantic segmentation. 
 Even though FCN significantly advances the performance of semantic segmentation, there are several barriers 
 when we build stronger segmentation network architectures.
 
