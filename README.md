@@ -13,7 +13,7 @@ In this repo, we colllect 191 papers (not complete yet) and focus on deep learni
 Download
 -------------------------------------------------------------------------------------------------------------------------
 The papers can be downloded by the following link: 
-https://pan.baidu.com/s/1dFewsrZ
+https://pan.baidu.com/s/1dEIH7NF
 
 Contributors
 -------------------------------------------------------------------------------------------------------------------------
